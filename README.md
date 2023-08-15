@@ -36,6 +36,8 @@
   - **Place your webhook here (https://github.com/slimephobia/FiveGate/blob/main/webhook.php#L34)**
 
 - **Place your cfx.re join link here (https://github.com/slimephobia/FiveGate/blob/main/home.php#L60C112-L60C130)**
-  
+
+- **Replace this with your Guild ID (https://github.com/slimephobia/FiveGate/blob/main/home.php#L13C73-L13C91)**
+
 # ⚠️ Known Issues
 - **Requesting homepage too many times can cause rate limit**
