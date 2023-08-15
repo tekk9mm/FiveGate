@@ -1,2 +1,1 @@
-# FiveGate
-🛡️ FiveGate - Selfhosted FiveM Panel with Discord Authentication and MFA
+https://raw.githubusercontent.com/slimephobia/FiveGate/main/assets/img/banner.png
