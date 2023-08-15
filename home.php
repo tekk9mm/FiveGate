@@ -26,7 +26,7 @@ $result = curl_exec($ch);
 
 $result = json_decode($result, true);
 
-$hasWhitelistRole = in_array('1138567669528924251', $result['roles']);
+$hasWhitelistRole = in_array('YOUR_WHITELIST_ROLE_ID_HERE', $result['roles']);
 
 ?>
 
