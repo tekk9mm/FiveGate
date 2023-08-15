@@ -39,5 +39,7 @@
 
 - **Replace this with your Guild ID (https://github.com/slimephobia/FiveGate/blob/main/home.php#L13C73-L13C91)**
 
+- **Change this to your whitelist role ID (https://github.com/slimephobia/FiveGate/blob/main/home.php#L29C31-L29C58)**
+
 # ⚠️ Known Issues
 - **Requesting homepage too many times can cause rate limit**
