@@ -63,7 +63,6 @@ $hasWhitelistRole = in_array('YOUR_WHITELIST_ROLE_ID_HERE', $result['roles']);
 <div id="newsCarousel" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#newsCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="1"></button>
-    <button type="button" data-bs-target="#newsCarousel" data-bs-slide-to="1" aria-label="1"></button>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
