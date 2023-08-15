@@ -57,7 +57,7 @@ $hasWhitelistRole = in_array('YOUR_WHITELIST_ROLE_ID_HERE', $result['roles']);
   </div>
 </div>
 
-<?php echo ($hasWhitelistRole ? "<div class='container' style='text-align: center; margin-top: 2.5%;'><a href='YOUR_CFX_LINK_HERE' target='_blank' class='btn btn-fivem'><i class='fa-solid fa-play'></i> CONNECT TO SERVER</a><h5><i class='fa-solid fa-shield'></i> Code: </h5><h5 class='hover-blur'> HJK401LSR</h5></div>" : "");?>
+<?php echo ($hasWhitelistRole ? "<div class='container' style='text-align: center; margin-top: 2.5%;'><a href='YOUR_CFX_LINK_HERE' target='_blank' class='btn btn-fivem'><i class='fa-solid fa-play'></i> CONNECT TO SERVER</a><h5><i class='fa-solid fa-shield'></i> Code: </h5><h5 class='hover-blur'> WORK_IN_PROGRESS</h5></div>" : "");?>
 
 <div class="container" style="text-align: center; margin-top: 2.5%;">
 <div id="newsCarousel" class="carousel slide">
