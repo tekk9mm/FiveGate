@@ -1,5 +1,7 @@
 ![image](https://raw.githubusercontent.com/slimephobia/FiveGate/main/assets/img/banner.png)
 
+## ℹ️ DISCLAIMER: This is open-source, if you have bought this code you have been scammed.
+
 # 📝 Features
 - **Application system (send to webhook)**
 - **Show discord avatar & username**
