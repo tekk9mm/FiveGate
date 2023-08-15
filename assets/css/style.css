@@ -1,0 +1,128 @@
+:root {
+    --muted: rgb(135, 135, 135);
+    --bg-color: rgb(25, 25, 25);
+    --contrast: rgb(35, 35, 35);
+    --discord: rgb(118, 138, 221);
+    --whitelist: rgb(90, 150, 90);
+    --fivem: rgb(240, 120, 50);
+    --true: rgb(60, 210, 80);
+    --false: rgb(210, 60, 60);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../roboto.ttf);
+}
+
+body {
+    background-color: var(--bg-color) !important;
+    color: white !important;
+    font-family: Roboto !important;
+}
+
+.btn-discord {
+    background-color: var(--discord) !important;
+    color: white !important;
+}
+
+.btn-whitelist {
+    background-color: var(--whitelist) !important;
+    color: white !important;
+}
+
+.btn-fivem {
+    background-color: var(--contrast) !important;
+    color: white !important;
+    margin-bottom: 1%;
+}
+
+.btn-muted {
+    background-color: var(--muted) !important;
+    color: white !important;
+}
+
+.fa-check {
+    color: var(--true);
+}
+
+.fa-x {
+    color: var(--false);
+}
+
+.modal-content {
+    background-color: var(--bg-color) !important;
+}
+
+.modal-header {
+    border: none !important;
+}
+
+.form-control {
+    background-color: rgb(35, 35, 35) !important;
+    border: none !important;
+    color: white !important;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: var(--muted) !important;
+}
+
+.swal2-popup {
+    background-color: var(--bg-color) !important;
+    border: 1px solid var(--contrast) !important;
+}
+
+.swal2-confirm {
+    background-color: var(--bg-color) !important;
+    border: 1px solid var(--contrast) !important;
+    color: var(--muted) !important;
+    box-shadow: none !important;
+}
+
+.swal2-title {
+    color: var(--muted) !important;
+}
+
+.swal2-html-container {
+    color: var(--muted) !important;
+}
+
+.hover-blur {
+    color: transparent;
+    text-shadow: 0px 0px 10px white;
+    transition: text-shadow 0.1s linear;
+}
+
+.hover-blur:hover {
+    text-shadow: 0px 0px 0px white;
+}
+
+.d-block {
+    max-width: 75%;
+    max-height: 75%;
+    border: 1ch solid var(--contrast);
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+  
+::-webkit-scrollbar-track {
+    background: transparent; 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #404040; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #404040; 
+}
+
+.news-text {
+    text-shadow: 0px 0px 20px var(--muted);
+}
