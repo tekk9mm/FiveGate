@@ -10,7 +10,7 @@ extract($_SESSION['userData']);
 
 $avatar_url = "https://cdn.discordapp.com/avatars/$discord_id/$avatar.jpg";
 
-$discord_users_guild_url = "https://discordapp.com/api/users/@me/guilds/1138567649572421783/member";
+$discord_users_guild_url = "https://discordapp.com/api/users/@me/guilds/YOUR_GUILD_ID_HERE/member";
 $header = array("Authorization: Bearer $discord_access_token", "Content-Type: application/x-www-form-urlencoded");
 
 $ch = curl_init();
