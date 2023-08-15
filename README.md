@@ -1,4 +1,4 @@
-## ℹ️ DISCLAIMER: This is open-source, if you have bought this code you have been scammed.
+### ℹ️ DISCLAIMER: This is open-source, if you have bought this code you have been scammed.
 
 ![image](https://raw.githubusercontent.com/slimephobia/FiveGate/main/assets/img/banner.png)
 
