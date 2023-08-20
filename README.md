@@ -22,26 +22,26 @@
 ![image](https://raw.githubusercontent.com/slimephobia/FiveGate/main/screenshots/login.png)
 
 # ❓ Installation
-- **Create an application (https://discord.com/developers/applications)**
+- **[Create an application](https://discord.com/developers/applications)**
 
-- **Specify an OAuth2 Redirect URL (https://discord.com/developers/applications)**
+- **[Specify an OAuth2 Redirect URL](https://discord.com/developers/applications)**
    - **(ex. http://localhost/process-oauth.php)**
 
 - **Generate an url and check "identify" & "guilds.members.read"**
-  - **Place the generated url here (https://github.com/slimephobia/FiveGate/blob/main/oauth.php#L3)**
+  - **[Place the generated url here](https://github.com/slimephobia/FiveGate/blob/main/oauth.php#L3)**
 
-- **Change the Client ID and Secret here (https://github.com/slimephobia/FiveGate/blob/main/process-oauth.php#L17#L18)**
+- **[Change the Client ID and Secret here](https://github.com/slimephobia/FiveGate/blob/main/process-oauth.php#L17#L18)**
 
-- **Change this to your redirect url here (https://github.com/slimephobia/FiveGate/blob/main/process-oauth.php#L20)**
+- **[Change this to your redirect url here](https://github.com/slimephobia/FiveGate/blob/main/process-oauth.php#L20)**
 
 - **Create a webhook for whitelist applications**
-  - **Place your webhook here (https://github.com/slimephobia/FiveGate/blob/main/webhook.php#L34)**
+  - **[Place your webhook here](https://github.com/slimephobia/FiveGate/blob/main/webhook.php#L34)**
 
-- **Place your cfx.re join link here (https://github.com/slimephobia/FiveGate/blob/main/home.php#L60C112-L60C130)**
+- **[Place your cfx.re join link here](https://github.com/slimephobia/FiveGate/blob/main/home.php#L60C112-L60C130)**
 
-- **Replace this with your Guild ID (https://github.com/slimephobia/FiveGate/blob/main/home.php#L13C73-L13C91)**
+- **[Replace this with your Guild ID](https://github.com/slimephobia/FiveGate/blob/main/home.php#L13C73-L13C91)**
 
-- **Change this to your whitelist role ID (https://github.com/slimephobia/FiveGate/blob/main/home.php#L29C31-L29C58)**
+- **[Change this to your whitelist role ID](https://github.com/slimephobia/FiveGate/blob/main/home.php#L29C31-L29C58)**
 
 # ⚠️ Known Issues
 - **Requesting homepage too many times can cause rate limit**
